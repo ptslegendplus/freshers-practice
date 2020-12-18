@@ -3,7 +3,7 @@
 
 This repo is for you to raise a Pull Request for practice, which will also help you to understand how Hacktober event works. 
 
-**Just add your name to the [CONTRIBUTORS.md](https://github.com/PHP-DC/freshers-practice/Developers/CONTRIBUTORS.md) alphabetical list and a link to your GitHub account.**
+**Just add your name to the [CONTRIBUTORS.md](https://github.com/PHP-DC/freshers-practice/blob/main/Developers/CONTRIBUTORS.md) alphabetical list and a link to your GitHub account.**
 
 Note: This repo will be archived during *October* as it is for practice purpose only.
 ## How to contribute
