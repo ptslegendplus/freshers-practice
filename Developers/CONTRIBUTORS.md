@@ -6,4 +6,7 @@
            - [Your Name](https://github.com/<Your-Username>)
 -->
 
-- [Dave Bhandari](https://github.com/Davekibh)
+
+- [Chinmay Mulay](https://github.com/cmulay)
+- [Davekibh](https://github.com/Davekibh)
+
