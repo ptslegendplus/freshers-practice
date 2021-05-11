@@ -8,6 +8,6 @@
 
 - [Bedant Hota](https://github.com/BedantH)
 - [Chinmay Mulay](https://github.com/cmulay)
-- [Davekibh](https://github.com/Davekibh)
+- [Dave Bhandari](https://github.com/Davekibh)
 - [Pratham Yadav](https://github.com/ypratham)
 - [Saurabh1426](https://github.com/Saurabh1426)
